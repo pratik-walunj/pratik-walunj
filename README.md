@@ -6,7 +6,7 @@
                                                
                                                Hi there👋, I'm Pratik Walunj
 
-                       A passionate php  developer from India, who also has a keen interest in building frontend UI
+                       A passionate web developer from India, who also has a keen interest in building frontend UI
 
 
 - 👋 Hi, I’m @pratik-walunj
