@@ -52,7 +52,7 @@
 
 Education: <br>
 
-B.sc in Computer Science  - Yeshwantrao Mohite College of arts commerce and Science , Pune (CGPA: 8.67, July 2021 - June 2024)
+B.sc in Computer Science  - Yeshwantrao Mohite College of arts commerce and Science , Pune (CGPA: 8.76, July 2021 - June 2024)
 
 
 
